@@ -4,8 +4,6 @@
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-![image](../screenshot.png)
-
 Big-O gösterimini yazınız.
 
 Time Complexity: O(n log n)
